@@ -12,6 +12,10 @@ h1 {
     color:black;
     font-size: 48px;
 }
+h1 img{
+    height: 357;
+    width: 260; 
+}
 p{
     font-size: 18px;
     margin: 20px;
@@ -24,5 +28,5 @@ p img {
 }
 main img{
     height: 357;
-    width: 250px;  
+    width: 188px;  
 }
