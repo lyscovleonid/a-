@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: black;
+}
+h1 {
+    text-align: center;
+    color:black;
+    font-size: 48px;
+}
+p{
+    font-size: 18px;
+    margin: 20px;
+}
+
+p img {
+    height: 395;
+    width: 225px;
+    margin: 15px;
+}
+main img{
+    height: 357;
+    width: 188px;  
+}
